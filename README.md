@@ -1,1 +1,1 @@
-# bybit_aapi_integration
+# Bybit API Integration
